@@ -1,0 +1,15 @@
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\bin\Debug\net8.0\interface.exe
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\bin\Debug\net8.0\interface.deps.json
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\bin\Debug\net8.0\interface.runtimeconfig.json
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\bin\Debug\net8.0\interface.dll
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\bin\Debug\net8.0\interface.pdb
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\obj\Debug\net8.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\obj\Debug\net8.0\interface.AssemblyInfoInputs.cache
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\obj\Debug\net8.0\interface.AssemblyInfo.cs
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\obj\Debug\net8.0\interface.csproj.CoreCompileInputs.cache
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\obj\Debug\net8.0\interface.sourcelink.json
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\obj\Debug\net8.0\interface.dll
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\obj\Debug\net8.0\refint\interface.dll
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\obj\Debug\net8.0\interface.pdb
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\obj\Debug\net8.0\interface.genruntimeconfig.cache
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\interface\obj\Debug\net8.0\ref\interface.dll
