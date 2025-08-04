@@ -1,0 +1,15 @@
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\bin\Debug\net8.0\inheritance.dll
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\bin\Debug\net8.0\inheritance.pdb
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\obj\Debug\net8.0\inheritance.sourcelink.json
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\obj\Debug\net8.0\inheritance.dll
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\OWEN\Desktop\dcit318\dcit318-assignment2-10983824\inheritance\obj\Debug\net8.0\ref\inheritance.dll
